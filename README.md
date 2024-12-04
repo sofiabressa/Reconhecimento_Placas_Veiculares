@@ -50,11 +50,14 @@ As bibliotecas principais utilizadas no projeto são:
 
 ## Estrutura do Projeto
 ├── images/ # Pasta de imagens de entrada para testes (não esta inclusa nesse repositório) 
-├── main.py # Código principal do projeto
+├── main.py
+├── ocr.py
+├── processar_imagem.py
+├── resultado.py
 
 ## Referências bibliográficas
-BOMFIM, Roberto Espinheira da Costa; LIMA, Rebeca Tourinho; MONTEIRO, Roberto Luiz Souza. Algoritmo de reconhecimento automático de placas de veículos baseado em matlab e tesseract OCR. 2014.
-NETO, Vargas; DE SÁ, Aroldo. Reconhecimento automático de placas veiculares do Mercosul utilizando o Tesseract OCR. 2023.
-ANDRINO JUNIOR, Carlos Alberto; MORAES, Gabriel Lima de. Identificação de placas de veículos. UENP, Salto Grande, Ribeirão do Sul, Brazil. Disponível em: https://github.com/Gabriellimmaa/reconhecimento-e-leitura-placa-carro-ptBR.
-RAJPUT, Hitesh; SOM, Tanmoy; KAR, Soumitra. An automated vehicle license plate recognition system. Computer, v. 48, n. 8, p. 56-61, 2015
+- BOMFIM, Roberto Espinheira da Costa; LIMA, Rebeca Tourinho; MONTEIRO, Roberto Luiz Souza. Algoritmo de reconhecimento automático de placas de veículos baseado em matlab e tesseract OCR. 2014.
+- NETO, Vargas; DE SÁ, Aroldo. Reconhecimento automático de placas veiculares do Mercosul utilizando o Tesseract OCR. 2023.
+- ANDRINO JUNIOR, Carlos Alberto; MORAES, Gabriel Lima de. Identificação de placas de veículos. UENP, Salto Grande, Ribeirão do Sul, Brazil. Disponível em: https://github.com/Gabriellimmaa/reconhecimento-e-leitura-placa-carro-ptBR.
+- RAJPUT, Hitesh; SOM, Tanmoy; KAR, Soumitra. An automated vehicle license plate recognition system. Computer, v. 48, n. 8, p. 56-61, 2015
 GONZALEZ, Rafael C.; WOODS, Richard E. Processamento digital de imagem. Pearson, ISBN-10: 8576054019, v. 10, p. 11-27, 2010.
