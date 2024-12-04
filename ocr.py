@@ -29,7 +29,6 @@ def executar_ocr(imagem, idioma):
 # Função principal para aplicar OCR nas possíveis placas
 def aplicar_ocr(possiveis_placas):
     for placa_recortada, placa_recortada_processada in possiveis_placas:
-        # Ajuste do recorte para placas maiores
         x, y, w, h = cv2.boundingRect(placa_recortada_processada)
         if h > 120:
             placa_recortada_processada = placa_recortada_processada[30:-10]
