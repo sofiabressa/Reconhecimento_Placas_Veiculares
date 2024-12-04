@@ -49,11 +49,11 @@ As bibliotecas principais utilizadas no projeto são:
 - Processa todas as imagens em uma pasta, aplicando os métodos acima para detectar e reconhecer placas.
 
 ## Estrutura do Projeto
-├── images/ # Pasta de imagens de entrada para testes (não esta inclusa nesse repositório) 
-├── main.py
-├── ocr.py
-├── processar_imagem.py
-├── resultado.py
+- ├── images/ # Pasta de imagens de entrada para testes (não esta inclusa nesse repositório) 
+- ├── main.py
+- ├── ocr.py
+- ├── processar_imagem.py
+- ├── resultado.py
 
 ## Referências bibliográficas
 - BOMFIM, Roberto Espinheira da Costa; LIMA, Rebeca Tourinho; MONTEIRO, Roberto Luiz Souza. Algoritmo de reconhecimento automático de placas de veículos baseado em matlab e tesseract OCR. 2014.
